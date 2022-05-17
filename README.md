@@ -1,6 +1,6 @@
 <!-- hide -->
 
-# Descriptive Statistics Exercises
+# Hypothesis Testing Exercises
 
 <!-- endhide -->
 
